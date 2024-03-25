@@ -6,7 +6,9 @@ This project is a music platform designed to provide functionalities for managin
 ### Functionalities
 - Registering a band.
 - Registering an album.
+- Registering a music.
 - Displaying all registered bands.
+- Displaying all registered musics.
 - Rating a band.
 - Rating an album.
 - Displaying details of a band.
