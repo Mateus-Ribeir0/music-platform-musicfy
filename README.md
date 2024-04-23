@@ -1,9 +1,9 @@
-#🎵 Music Platform 🎶
+# 🎵 Music Platform 🎶
 
-##About
+## About
 This project is a music platform designed to provide functionalities for managing bands and albums. It allows users to register bands, albums, view all registered bands, rate bands and albums, and display detailed information about a specific band.
 
-###Functionalities
+### Functionalities
 - Registering a band.
 - Registering an album.
 - Displaying all registered bands.
