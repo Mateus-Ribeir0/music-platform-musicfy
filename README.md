@@ -1,17 +1,16 @@
-# 🎵 Music Platform 🎶
+# 📝 To Do List 📌
 
 ## About
-This project is a music platform designed to provide functionalities for managing bands and albums. It allows users to register bands, albums, view all registered bands, rate bands and albums, and display detailed information about a specific band.
+This project is a simple to-do list application designed to help users manage their tasks effectively. It provides a user-friendly interface to add, delete, and mark tasks as completed. Additionally, it includes a progress bar to visualize task completion.
 
 ### Functionalities
-- Registering a band.
-- Registering an album.
-- Registering a music.
-- Displaying all registered bands.
-- Displaying all registered musics.
-- Rating a band.
-- Rating an album.
-- Displaying details of a band.
+- Adding a task to the list.
+- Deleting a task from the list.
+- Marking a task as completed.
+- Viewing tasks with a progress bar.
 
 ## Technologies
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
